@@ -49,6 +49,6 @@ I'm open to communication, learning, and future collaborations.
 
 <sub>© 2025 Faperr • Built with 💻 in Russia</sub>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=90&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:2a2a2a,100:3f3f46&height=90&section=footer)
 
 </div>
