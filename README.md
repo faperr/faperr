@@ -45,18 +45,9 @@ I'm open to communication, learning, and future collaborations.
 
 ---
 
-## ☕ Support My Work
-
 <div align="center">
 
-If you like what I do and want to support my journey:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/faperr)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/faperr)
-
-<br>
-
-<sub>© 2025 Faperr • Built with 💻</sub>
+<sub>© 2025 Faperr • Built with 💻 in Russia</sub>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=90&section=footer)
 
