@@ -1,7 +1,6 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=280&section=header&text=Faperr&fontSize=90&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Resource%20Pack%20%7C%20Moding%2C%20Site%20%7C%20Backend%20Developer&descSize=20&descAlign=50&descAlignY=58&stroke=6366f1&strokeWidth=1)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=🌍+Based+in+Russia;🧩+Resource+Pack+%7C+Moding%2C+Site;⚙️+Backend+Developer)](https://git.io/typing-svg)
 
 <br>
