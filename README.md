@@ -38,7 +38,7 @@
 
 I'm open to communication, learning, and future collaborations.
 
-[![Email](https://img.shields.io/badge/Email-faperr%40pm.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gvyu371@gmail.com)
+[![Email](https://img.shields.io/badge/Email-faperr@faperr.site-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gvyu371@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@FaperrDemon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/faperrDemon)
 
 </div>
