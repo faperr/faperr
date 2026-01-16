@@ -1,165 +1,157 @@
-<!-- =========================
-   HERO / HEADER
-========================= -->
+<div align="center">
 
-<p align="center">
-  <!-- Топ-баннер (можешь заменить на свою картинку) -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:111827&height=120&section=header&text=Faperr&fontColor=ffffff&fontSize=48&fontAlignY=70" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=280&section=header&text=Faperr&fontSize=90&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Building%20the%20Future%20with%20AI&descSize=20&descAlign=50&descAlignY=58&stroke=6366f1&strokeWidth=1)
 
-<p align="center">
-  <b>Building the Future with AI</b>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=🌍+Based+in+Tallinn%2C+Estonia;🤖+AI+Engineer+%7C+Network+Architect+%7C+Creator;💡+Transforming+ideas+into+intelligent+systems)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1200&color=7DD3FC&center=true&vCenter=true&width=520&lines=Transforming+ideas+into+intelligent+systems;AI+%E2%80%A2+Developer+Tools+%E2%80%A2+Web+%E2%80%A2+Automation" alt="Typing SVG" />
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/faperr?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://YOUR_WEBSITE">
-    <img src="https://img.shields.io/badge/Website-0b1220?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+[![Website](https://img.shields.io/badge/🌐_Faperr.xyz-000000?style=for-the-badge&logoColor=white)](https://Faperr.xyz)
+[![OnlineTools](https://img.shields.io/badge/💫_sqrilizz.fun-000000?style=for-the-badge&logoColor=white)](https://sqrilizz.fun)
 
-<hr/>
+</div>
 
-<!-- =========================
-   CURRENT PROJECTS
-========================= -->
+---
 
 ## 🚀 Current Projects
 
-### ⚡ Project One
-**Short one-liner about the project**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A couple of lines describing what it does, who it’s for, and what makes it cool.
+### ⚡ SqrilizzAI
+**Discord AI Bot for Bixland.ru**
 
-<img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tech-Python%20%7C%20TS%20%7C%20Docker-60a5fa?style=for-the-badge" />
+An intelligent Discord bot powered by AI, designed to enhance the Bixland.ru server with automation, moderation, and interactive features.
 
----
+![Status](https://img.shields.io/badge/Status-Active_Development-orange?style=flat-square)
+![Tech](https://img.shields.io/badge/Stack-Python_•_YellowfireAPI-blue?style=flat-square)
 
-### 📘 Project Two
-**Short one-liner about the project**
+</td>
+<td width="50%" valign="top">
 
-A couple of lines describing use-cases, stage (alpha/beta), and key feature.
+### 🎓 Learnly
+**Next-Gen AI Education Platform**
 
-<img src="https://img.shields.io/badge/Status-Closed%20Alpha-f59e0b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Users-150%2B-8b5cf6?style=for-the-badge" />
+Access to **150+ AI models** for learning, research, and experimentation. Currently in closed alpha testing.
 
----
+![Status](https://img.shields.io/badge/Status-Closed_Alpha-blueviolet?style=flat-square)
+![Users](https://img.shields.io/badge/Models-150+-green?style=flat-square)
 
-### 🤖 Project Three
-**Short one-liner about the project**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Describe what it automates / assists with. Add a strong “why”.
+### 🤖 Auryx-Agent
+**Intelligent CLI Assistant**
 
-<img src="https://img.shields.io/badge/Status-Building-38bdf8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/License-MIT-ef4444?style=for-the-badge" />
+AI-powered command-line agent for automation, task management, and developer productivity.
 
----
+![Status](https://img.shields.io/badge/Status-Beta_3.0-blueviolet?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-### 🤝 Open to Collaborate
+</td>
+<td width="50%" valign="top">
+
+### 💡 Open to Collaborate
 Looking to work on innovative projects in:
-
 - **AI/ML Systems**
 - **Distributed Networks**
 - **Developer Tools**
 
-➡️ **Let’s connect:** https://YOUR_WEBSITE
+[Let's connect →](https://www.sqrilizz.xyz/contact)
 
-<hr/>
+</td>
+</tr>
+</table>
 
-<!-- =========================
-   TECH STACK
-========================= -->
+---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Web & Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### AI & Data
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Infrastructure & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=white" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<hr/>
+</div>
 
-<!-- =========================
-   GITHUB ANALYTICS
-========================= -->
+---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=faperr&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=faperr&theme=dark&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sqrilizz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sqrilizz&theme=tokyonight&hide_border=true" height="170" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faperr&theme=github-compact&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqrilizz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sqrilizz&theme=tokyo-night&hide_border=true&area=true" height="170" />
+</div>
 
-<!-- WakaTime (опционально): создай WakaTime + GitHub Action, затем вставь корректный badge/карточку
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME&theme=dark&hide_border=true" />
-</p>
--->
+<br>
 
-<hr/>
+<div align="center">
+  
+![wakatime](https://wakatime.com/badge/user/d26ac583-6e49-427f-9631-1b538a976f31.svg?color=313065&label_color=181733&style=flat)
 
-<!-- =========================
-   CONTACT
-========================= -->
+</div>
 
-## 🌐 Let's Connect
+---
 
-I’m always open to interesting conversations, collaboration opportunities, and innovative projects.
+## 💬 Let's Connect
 
-<p>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/YOUR_INVITE">
-    <img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<hr/>
+I'm always open to interesting conversations, collaboration opportunities, and innovative projects. Feel free to reach out!
 
-<p align="center">
-  © 2026 Faperr • Built with ❤️
-</p>
+[![Email](https://img.shields.io/badge/Email-sqrilizz%40pm.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sqrilizz@pm.me)
+[![Telegram](https://img.shields.io/badge/Telegram-@sqrilizz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sqrilizz)
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+
+If you find my projects useful or interesting, consider supporting my work:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sqrilizz)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sqrilizz)
+
+<br>
+
+---
+
+<sub>**© 2025 Sqrilizz** • Built with 🤖 in Tallinn, Estonia</sub>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer)
+
+</div>
