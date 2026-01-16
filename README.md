@@ -161,5 +161,5 @@ I’m always open to interesting conversations, collaboration opportunities, and
 <hr/>
 
 <p align="center">
-  © 2026 YOUR_USERNAME • Built with ❤️
+  © 2026 Faperr • Built with ❤️
 </p>
