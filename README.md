@@ -1,9 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=280&section=header&text=Faperr&fontSize=90&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Resource%20Pack%20%7C%20Moding%2C%20Site%20%7C%20Backend%20Developer&descSize=20&descAlign=50&descAlignY=58&stroke=6366f1&strokeWidth=1)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=🌍+Based+in+Russia;🧩+Resource+Pack+%7C+Moding%2C+Site;⚙️+Backend+Developer)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Faperr&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Resource%20Pack%20%7C%20Moding%2C%20Site%20%7C%20Backend%20Developer&descSize=18&descAlign=50&descAlignY=60&stroke=6366f1&strokeWidth=1)
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=680&lines=🌍+Based+in+Russia;🧩+Resource+Pack+%7C+Moding%2C+Site;⚙️+Backend+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,18 +32,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=faperr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faperr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
-
-</div>
-
----
-
 ## 💬 Let's Connect
 
 <div align="center">
@@ -69,10 +56,8 @@ If you like what I do and want to support my journey:
 
 <br>
 
----
-
 <sub>© 2025 Faperr • Built with 💻</sub>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=90&section=footer)
 
 </div>
