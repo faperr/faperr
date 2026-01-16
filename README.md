@@ -37,7 +37,11 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=faperr&theme=tokyonight&hide_border=true" height="170" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=faperr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faperr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
+
 </div>
 
 ---
