@@ -1,4 +1,4 @@
-<div align="center">
+я<div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=280&section=header&text=Faperr&fontSize=90&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Building%20the%20Future%20with%20AI&descSize=20&descAlign=50&descAlignY=58&stroke=6366f1&strokeWidth=1)
 
@@ -39,7 +39,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faperr&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faperr&show_icons=true&theme=dark&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faperr&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
