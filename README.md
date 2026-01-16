@@ -37,12 +37,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faperr&show_icons=true&theme=dark&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faperr&theme=tokyonight&hide_border=true" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faperr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
+  <img src="https://streak-stats.demolab.com?user=faperr&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 ---
