@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Топ-баннер (можешь заменить на свою картинку) -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:111827&height=120&section=header&text=YOUR_USERNAME&fontColor=ffffff&fontSize=48&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:111827&height=120&section=header&text=Faperr&fontColor=ffffff&fontSize=48&fontAlignY=70" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <a href="https://github.com/faperr?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://YOUR_WEBSITE">
@@ -122,12 +122,12 @@ Looking to work on innovative projects in:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=faperr&show_icons=true&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=faperr&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faperr&theme=github-compact&hide_border=true" />
 </p>
 
 <!-- WakaTime (опционально): создай WakaTime + GitHub Action, затем вставь корректный badge/карточку
@@ -155,25 +155,6 @@ I’m always open to interesting conversations, collaboration opportunities, and
   </a>
   <a href="https://discord.gg/YOUR_INVITE">
     <img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
-<hr/>
-
-<!-- =========================
-   SUPPORT
-========================= -->
-
-## ☕ Support My Work
-
-If you find my projects useful or interesting, consider supporting my work:
-
-<p>
-  <a href="https://buymeacoffee.com/YOUR_NAME">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-111827?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
-  </a>
-  <a href="https://paypal.me/YOUR_NAME">
-    <img src="https://img.shields.io/badge/PayPal-111827?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
 </p>
 
