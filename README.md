@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=280&section=header&text=Faperr&fontSize=90&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Resource%20Pack%20|%20Moding%20|%20Backend%20Developer%20|%20Site&descSize=20&descAlign=50&descAlignY=58&stroke=6366f1&strokeWidth=1)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Resoursce+Pack%7C+Modeing;💡+Learning%2C+Experimenting%2C+Building;🚀+Turning+ideas+into+working+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=🌍+Based+in+Tallinn%2C+Estonia;🤖+AI+Engineer+%7C+Network+Architect+%7C+Creator;💡+Transforming+ideas+into+intelligent+systems)](https://git.io/typing-svg)
 
 <br>
 
